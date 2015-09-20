@@ -3,7 +3,7 @@
 A virtual world with communities of digital organisms whose health is determined by the weighted alpha of high volume stocks. Statistics about the population are tweeted out using a connected API.
 
 ###Current Status
-This project is connected to Twitter api up to it so the environment tweets out the most stable stocks to invest in based on organism performance and hierarchy. Eventually the whole system will be ported to a server and have a clean website to visualize the relationship between organisms and communities.
+This project is connected to a Twitter api so the environment tweets out the most stable stocks to invest in based on organism performance and hierarchy. Eventually the whole system will be ported to a server and have a clean website to visualize the relationship between organisms and communities.
 
 For now, the environment uses the 100 highest trading volume stocks to assign to each organism, but in the future it will be scraped from a database.
 
